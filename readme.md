@@ -105,7 +105,8 @@ StudyBuddy is a gamified mobile app that helps college students find and create 
 ### [BONUS] Digital Wireframes & Mockups
 
 #### Login, Registration & Session Feed Screens
-<img src="wireframes/wireframes_page1.png" width="600"/>
+<img width="1233" height="640" alt="Screenshot 2026-04-02 at 12 28 07" src="https://github.com/user-attachments/assets/c7dfe2fe-4c7e-4859-976a-49ccf237b1e3" />
+
 
 **Login Screen** — App logo centered at top, Email and Password input fields, **LOG IN** primary action button, **SIGN UP** secondary button navigates to Registration.
 
@@ -114,7 +115,8 @@ StudyBuddy is a gamified mobile app that helps college students find and create 
 **Session Feed Screen** — "Study Sessions" header with scrollable list of session cards. Each card shows a course badge (CS 101, MATH 250, ENG 102, PHYS 201), topic preview, member count with group icon (e.g., 3/5), and a "FULL" indicator when at capacity. Bottom tab bar: **Feed** | Create | Board | Profile.
 
 #### Session Detail, Create Session & Leaderboard Screens
-<img src="wireframes/wireframes_page2.png" width="600"/>
+<img width="1227" height="554" alt="Screenshot 2026-04-02 at 12 28 16" src="https://github.com/user-attachments/assets/1a5502df-7d31-440d-bc42-6c0de78e9675" />
+
 
 **Session Detail Screen** — Course badge at top (e.g., CS 101), session info card with Date, Time, Location, and Members count, member avatar circles, **JOIN SESSION** primary action button, **CHECK IN (50 XP)** secondary button for GPS-verified attendance.
 
@@ -126,7 +128,8 @@ StudyBuddy is a gamified mobile app that helps college students find and create 
 - Bottom tab bar with **Board** tab highlighted
 
 #### Profile Screen
-<img src="wireframes/wireframes_page3.png" width="300"/>
+<img width="380" height="530" alt="Screenshot 2026-04-02 at 12 28 22" src="https://github.com/user-attachments/assets/8d90ecaf-f72f-4672-8fe3-cc7324bfadca" />
+
 
 - Profile avatar and username
 - Stats card showing **1,450 XP** | **Level 8** | **5 Streak** (fire icon)
